@@ -1,0 +1,53 @@
+body{
+    background-color: khaki;
+}
+h1{
+    color: black;
+    text-align: center;
+}
+    h2{
+        color: red;
+        text-align: center;
+    }
+    .index{
+        color: blue;
+    }
+    h3{
+        color: chartreuse;
+        text-align: center;
+    }
+    .text{
+        font-style: italic;
+        font-weight: 900;
+    }
+    #marker{
+        font-weight: 900;
+        font-style: italic;
+        color: rgba(10, 20, 200, 0.5);
+        text-transform: uppercase;
+        text-decoration: coral;
+    }
+    #email{
+        background-color: red;
+        color: khaki;
+        font-style: italic;
+    }
+    .exapmle{
+        position: relative;
+        background-color: yellow;
+        display: block;
+        width: 700px;
+        height: 400px;
+    }
+    nav{
+        position: fixed;
+        /* display: inline-block; */
+        left: 220px;
+        z-index: -4;
+    }
+    body{
+        z-index: 5;
+    }
+    #princ{
+        
+    }
